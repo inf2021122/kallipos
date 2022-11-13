@@ -8,8 +8,9 @@ license_text: Wikipedia
 categories:
     - Videogames
 tags:
-    - VR Headset
-    - VR controller
+ - VR Headset
+ - VR controller
+
 ---    
 
 
